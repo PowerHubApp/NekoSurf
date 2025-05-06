@@ -34,3 +34,7 @@ If you want to test it on Testflight, use [this link](https://testflight.apple.c
 ## License
 
 Distributed under the GPL3 License. See [LICENSE](https://github.com/NekoSurf/NekoSurf/blob/develop/LICENSE) for more information.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=NekoSurf/NekoSurf&type=Date)](https://www.star-history.com/#NekoSurf/NekoSurf&Date)
