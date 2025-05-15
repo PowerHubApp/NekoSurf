@@ -1,13 +1,7 @@
 name: Build NekoSurf iOS IPA
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-  workflow_dispatch:
+ workflow_dispatch:
 
 jobs:
   build-ipa:
