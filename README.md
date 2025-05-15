@@ -6,6 +6,10 @@
 [![GitHub release](https://img.shields.io/github/release/NekoSurf/NekoSurf.svg?style=flat-square)](https://github.com/NekoSurf/NekoSurf/releases/latest)
 [![style: lint](https://img.shields.io/badge/style-lint-4BC0F5.svg?style=flat-square)](https://pub.dev/packages/lint)
 
+# THIS FORK CREATES AN IPA FILE FOR SIDELOADING
+# THIS FORK CREATES AN IPA FILE FOR SIDELOADING
+# THIS FORK CREATES AN IPA FILE FOR SIDELOADING
+
 ## Features
 
 - Boards and threads that can be favorised
