@@ -1,0 +1,84 @@
+name: Build NekoSurf iOS IPA
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-ipa:
+    name: Build iOS IPA without Code Signing
+    runs-on: macos-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Ruby environment
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3' # Compatible with CocoaPods
+          bundler-cache: true
+
+      # Step 3: Set up Flutter
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.29.2' # Compatible with sdk: ">=3.6.0"
+          channel: 'stable'
+
+      # Step 4: Verify Flutter setup
+      - name: Verify Flutter
+        run: flutter doctor
+
+      # Step 5: Install Flutter dependencies
+      - name: Install Flutter Dependencies
+        run: flutter pub get
+
+      # Step 6: Install CocoaPods
+      - name: Install CocoaPods
+        run: |
+          gem install cocoapods
+          cd ios && pod install && cd ..
+        continue-on-error: true # Handle cases where Podfile is 
+
+      # Step 7: Build iOS app (produces .app)
+      - name: Build iOS App
+        run: |
+          flutter build ios --release --no-codesign --verbose
+        continue-on-error: true
+
+      # Step 8: Create IPA manually
+      - name: Create IPA
+        run: |
+          APP_DIR="build/ios/Release-iphoneos"
+          OUTPUT_DIR="build/ios/ipa"
+          APP_NAME=$(find "$APP_DIR" -name "*.app" -maxdepth 1 | head -n 1)
+          if [ -z "$APP_NAME" ]; then
+            echo "No .app found in $APP_DIR"
+            exit 1
+          fi
+          APP_BASENAME=$(basename "$APP_NAME" .app)
+          mkdir -p "$OUTPUT_DIR/Payload"
+          cp -r "$APP_NAME" "$OUTPUT_DIR/Payload/"
+          cd "$OUTPUT_DIR"
+          zip -r "$APP_BASENAME.ipa" Payload
+          rm -rf Payload
+          echo "Created IPA: $OUTPUT_DIR/$APP_BASENAME.ipa"
+        continue-on-error: true
+
+      # Step 9: Upload IPA artifact
+      - name: Upload IPA Artifact
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: neko-surf-ipa
+          path: build/ios/ipa/*.ipa
+          retention-days: 7
+
