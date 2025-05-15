@@ -1,4 +1,4 @@
-# NekoSurf
+# NekoSurf - IPA FILE
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/NekoSurf/NekoSurf/graphs/commit-activity)
 [![Issues](https://img.shields.io/github/issues/NekoSurf/NekoSurf.svg?style=flat-square)](https://github.com/NekoSurf/NekoSurf/issues)
@@ -6,8 +6,6 @@
 [![GitHub release](https://img.shields.io/github/release/NekoSurf/NekoSurf.svg?style=flat-square)](https://github.com/NekoSurf/NekoSurf/releases/latest)
 [![style: lint](https://img.shields.io/badge/style-lint-4BC0F5.svg?style=flat-square)](https://pub.dev/packages/lint)
 
-# THIS FORK CREATES AN IPA FILE FOR SIDELOADING
-# THIS FORK CREATES AN IPA FILE FOR SIDELOADING
 # THIS FORK CREATES AN IPA FILE FOR SIDELOADING
 
 ## Features
@@ -38,13 +36,3 @@ If you want to test it on Testflight, use [this link](https://testflight.apple.c
 ## License
 
 Distributed under the GPL3 License. See [LICENSE](https://github.com/NekoSurf/NekoSurf/blob/develop/LICENSE) for more information.
-
-## Star History
-
-<a href="https://www.star-history.com/#NekoSurf/NekoSurf&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=NekoSurf/NekoSurf&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=NekoSurf/NekoSurf&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=NekoSurf/NekoSurf&type=Date" />
- </picture>
-</a>
