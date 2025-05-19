@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppIDName</key>
+	<string>Explicit</string>
+	<key>ApplicationIdentifierPrefix</key>
+	<array>
+	<string>72DDYZ3844</string>
+	</array>
+	<key>CreationDate</key>
+	<date>2025-04-08T13:41:06Z</date>
+	<key>Platform</key>
+	<array>
+		<string>iOS</string>
+		<string>xrOS</string>
+		<string>visionOS</string>
+	</array>
+	<key>IsXcodeManaged</key>
+	<false/>
+	<key>DeveloperCertificates</key>
+	<array>
+		<data>MIIFyDCCBLCgAwIBAgIQBkuqe2DAM7xM6URTkMK1vjANBgkqhkiG9w0BAQsFADB1MUQwQgYDVQQDDDtBcHBsZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9ucyBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTELMAkGA1UECwwCRzMxEzARBgNVBAoMCkFwcGxlIEluYy4xCzAJBgNVBAYTAlVTMB4XDTI1MDMyNTE3NTI0M1oXDTI2MDMyNTE3NTI0MlowgY4xGjAYBgoJkiaJk/IsZAEBDApKU1hUWlBNMk5CMTYwNAYDVQQDDC1BcHBsZSBEZXZlbG9wbWVudDogVGhhbyBEaW5oIFRoaSAoOFBMOE5ZRDRWVSkxEzARBgNVBAsMCjcyRERZWjM4NDQxFjAUBgNVBAoMDVRoYW8gRGluaCBUaGkxCzAJBgNVBAYTAlVTMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0LxtyJbSGnhYzmPUzo13L1dLnBbZJdsbpymx4vq4Q/hcEi8CvF8NHgCQTKHjyzt0jWXY+7W1xww0I3xOkR2tEDGMs9yFazyVyZ3+c0jGfvBmHQdwzdKVTjcptQnnuXIzG8TIXwY5Or3SO84UAbSS4rRrHQjvG53lr4brM/E9wCGhlU11iapnQ2o+DhukbjTUPjtyYN5KLotmtXNtDOD9A8eJ1De6Igq8ncRoOZElLJgVSDwlPYWbJNjTKbKU7ITWQo5AG4VdIS0hnTegca/BqBuZSTbtALsH36LeE0k4fOATZ2HZMaNTpHIr/yrk5Lpd3LuD5dXnJgZ0YdTABVBKZwIDAQABo4ICODCCAjQwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQJ/sAVkPmvZAqSErkmKGMMl+ynsjBwBggrBgEFBQcBAQRkMGIwLQYIKwYBBQUHMAKGIWh0dHA6Ly9jZXJ0cy5hcHBsZS5jb20vd3dkcmczLmRlcjAxBggrBgEFBQcwAYYlaHR0cDovL29jc3AuYXBwbGUuY29tL29jc3AwMy13d2RyZzMwNDCCAR4GA1UdIASCARUwggERMIIBDQYJKoZIhvdjZAUBMIH/MIHDBggrBgEFBQcCAjCBtgyBs1JlbGlhbmNlIG9uIHRoaXMgY2VydGlmaWNhdGUgYnkgYW55IHBhcnR5IGFzc3VtZXMgYWNjZXB0YW5jZSBvZiB0aGUgdGhlbiBhcHBsaWNhYmxlIHN0YW5kYXJkIHRlcm1zIGFuZCBjb25kaXRpb25zIG9mIHVzZSwgY2VydGlmaWNhdGUgcG9saWN5IGFuZCBjZXJ0aWZpY2F0aW9uIHByYWN0aWNlIHN0YXRlbWVudHMuMDcGCCsGAQUFBwIBFitodHRwczovL3d3dy5hcHBsZS5jb20vY2VydGlmaWNhdGVhdXRob3JpdHkvMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMB0GA1UdDgQWBBSUEjYckaPpTgW/8+aE23GhqHABSjAOBgNVHQ8BAf8EBAMCB4AwEwYKKoZIhvdjZAYBAgEB/wQCBQAwEwYKKoZIhvdjZAYBDAEB/wQCBQAwDQYJKoZIhvcNAQELBQADggEBAJuUNP4M15OoJInquokvvTe6fgUngNe3SivgVgjeyvmSSng4CuKKLsaUep57Xvk3TYNvMS/1Bud4mKQh4w3exOzGQqxYddTcLc3z6iTWN3cRBhsldgXbN6BDmwxy2L2MyjdGYyNCBSIua5LDpm/tVf+zq774MgFYTblmqOLwgdg4GCdy+UrlFLO3PtdqZy2omHAuR5AH8oZmSQEVBcLcVPeab2Sd9jW6mIvSpVFHyJCqYnIXBNFhNoyXzp0Q91dcK6Q65tSJYQY/MEqQw5KCzqqsz8mkzRzNA/LFyujdLvokTFb95KP61mVStGkWnT4s86BgiKoskP8lLAOiBedPsL4=</data>
+	</array>
+
+	<key>DER-Encoded-Profile</key>
+	<data>MIIdMwYJKoZIhvcNAQcCoIIdJDCCHSACAQExDzANBglghkgBZQMEAgEFADCCEu4GCSqGSIb3DQEHAaCCEt8EghLbMYIS1zAMDAdWZXJzaW9uAgEBMA0MCFBQUUNoZWNrAQH/MBAMClRpbWVUb0xpdmUCAgFtMBMMDklzWGNvZGVNYW5hZ2VkAQEAMBUMCUFwcElETmFtZQwIRXhwbGljaXQwGQwIVGVhbU5hbWUMDVRoYW8gRGluaCBUaGkwHQwMQ3JlYXRpb25EYXRlFw0yNTA0MDgxMzQxMDZaMB4MDlRlYW1JZGVudGlmaWVyMAwMCjcyRERZWjM4NDQwHwwORXhwaXJhdGlvbkRhdGUXDTI2MDQwODEzNDEwNlowIQwIUGxhdGZvcm0wFQwDaU9TDAR4ck9TDAh2aXNpb25PUzAiDBdQcm9maWxlRGlzdHJpYnV0aW9uVHlwZQwHTElNSVRFRDArDBtBcHBsaWNhdGlvbklkZW50aWZpZXJQcmVmaXgwDAwKNzJERFlaMzg0NDAsDARVVUlEDCRjZTkzNmMzNi0yYjM3LTQ2MzUtODMxZS04ZjBhN2U2NzFiZjkwLgwETmFtZQwmMDAwMDgxNDAtMDAwYTc0MjAwMjdiMDAxY19leHBsaWNpdF9kZXYwMQwSUHJvdmlzaW9uZWREZXZpY2VzMBsMGTAwMDA4MTQwLTAwMEE3NDIwMDI3QjAwMUMwOwwVRGV2ZWxvcGVyQ2VydGlmaWNhdGVzMCIEIJ5+xueMLra3dRm9dd/g6HIFgqoF4JTZRqeytHqo51nYMIIQuwwMRW50aXRsZW1lbnRzcIIQqQIBAbCCEKIwPAwWYXBwbGljYXRpb24taWRlbnRpZmllcgwiNzJERFlaMzg0NC5jb20uNzJERFlaMzg0NC5leHBsaWNpdDAeDA9hcHMtZW52aXJvbm1lbnQMC2RldmVsb3BtZW50MEUMKGNvbS5hcHBsZS5kZXZlbG9wZXIuQ2xhc3NLaXQtZW52aXJvbm1lbnQwGQwKcHJvZHVjdGlvbgwLZGV2ZWxvcG1lbnQwOww2Y29tLmFwcGxlLmRldmVsb3Blci5hY2Nlc3NpYmlsaXR5Lm1lcmNoYW50LWFwaS1jb250cm9sAQH/MCwMH2NvbS5hcHBsZS5kZXZlbG9wZXIuYXBwbGVzaWduaW4wCQwHRGVmYXVsdDArDCZjb20uYXBwbGUuZGV2ZWxvcGVyLmFzc29jaWF0ZWQtZG9tYWlucwwBKjA3DDJjb20uYXBwbGUuZGV2ZWxvcGVyLmFzc29jaWF0ZWQtZG9tYWlucy5tZG0tbWFuYWdlZAEB/zBNDEhjb20uYXBwbGUuZGV2ZWxvcGVyLmF1dGhlbnRpY2F0aW9uLXNlcnZpY2VzLmF1dG9maWxsLWNyZWRlbnRpYWwtcHJvdmlkZXIBAf8wJAwfY29tLmFwcGxlLmRldmVsb3Blci5jYWxsaW5nLWFwcAEB/zA7DDZjb20uYXBwbGUuZGV2ZWxvcGVyLmNvcmVtZWRpYS5obHMuaW50ZXJzdGl0aWFsLXByZXZpZXcBAf8wMgwtY29tLmFwcGxlLmRldmVsb3Blci5jb3JlbWVkaWEuaGxzLmxvdy1sYXRlbmN5AQH/MC0MKGNvbS5hcHBsZS5kZXZlbG9wZXIuY29yZW1vdGlvbi5oZWFkLXBvc2UBAf8wMwwuY29tLmFwcGxlLmRldmVsb3Blci5jb3JldGVsZXBob255LnNpbS1pbnNlcnRlZAEB/zBHDCtjb20uYXBwbGUuZGV2ZWxvcGVyLmRlZmF1bHQtZGF0YS1wcm90ZWN0aW9uDBhOU0ZpbGVQcm90ZWN0aW9uQ29tcGxldGUwUgw1Y29tLmFwcGxlLmRldmVsb3Blci5kZXZpY2VjaGVjay5hcHBhdHRlc3QtZW52aXJvbm1lbnQwGQwLZGV2ZWxvcG1lbnQMCnByb2R1Y3Rpb24wIgwdY29tLmFwcGxlLmRldmVsb3Blci5kcml2ZXJraXQBAf8wQAw7Y29tLmFwcGxlLmRldmVsb3Blci5kcml2ZXJraXQuYWxsb3ctdGhpcmQtcGFydHktdXNlcmNsaWVudHMBAf8wPAw3Y29tLmFwcGxlLmRldmVsb3Blci5kcml2ZXJraXQuY29tbXVuaWNhdGVzLXdpdGgtZHJpdmVycwEB/zAvDCpjb20uYXBwbGUuZGV2ZWxvcGVyLmRyaXZlcmtpdC5mYW1pbHkuYXVkaW8BAf8wLgwpY29tLmFwcGxlLmRldmVsb3Blci5kcml2ZXJraXQuZmFtaWx5Lm1pZGkBAf8wQAwrY29tLmFwcGxlLmRldmVsb3Blci5kcml2ZXJraXQudHJhbnNwb3J0LnVzYjARsA8wDQwIaWRWZW5kb3IMASowKAwjY29tLmFwcGxlLmRldmVsb3Blci5mYW1pbHktY29udHJvbHMBAf8wMgwtY29tLmFwcGxlLmRldmVsb3Blci5maWxlcHJvdmlkZXIudGVzdGluZy1tb2RlAQH/MCQMH2NvbS5hcHBsZS5kZXZlbG9wZXIuZ2FtZS1jZW50ZXIBAf8wJgwhY29tLmFwcGxlLmRldmVsb3Blci5ncm91cC1zZXNzaW9uAQH/MCIMHWNvbS5hcHBsZS5kZXZlbG9wZXIuaGVhbHRoa2l0AQH/MDgMJGNvbS5hcHBsZS5kZXZlbG9wZXIuaGVhbHRoa2l0LmFjY2VzczAQDA5oZWFsdGgtcmVjb3JkczA2DDFjb20uYXBwbGUuZGV2ZWxvcGVyLmhlYWx0aGtpdC5iYWNrZ3JvdW5kLWRlbGl2ZXJ5AQH/MDgMM2NvbS5hcHBsZS5kZXZlbG9wZXIuaGVhbHRoa2l0LnJlY2FsaWJyYXRlLWVzdGltYXRlcwEB/zAgDBtjb20uYXBwbGUuZGV2ZWxvcGVyLmhvbWVraXQBAf8wSgxGY29tLmFwcGxlLmRldmVsb3Blci5pY2xvdWQtY29udGFpbmVyLWRldmVsb3BtZW50LWNvbnRhaW5lci1pZGVudGlmaWVyczAAMDQMMGNvbS5hcHBsZS5kZXZlbG9wZXIuaWNsb3VkLWNvbnRhaW5lci1pZGVudGlmaWVyczAAMCgMI2NvbS5hcHBsZS5kZXZlbG9wZXIuaWNsb3VkLXNlcnZpY2VzDAEqMCcMI2NvbS5hcHBsZS5kZXZlbG9wZXIuaW4tYXBwLXBheW1lbnRzMAAwMgwhY29tLmFwcGxlLmRldmVsb3Blci5qb3VybmFsLmFsbG93MA0MC3N1Z2dlc3Rpb25zMDsMNmNvbS5hcHBsZS5kZXZlbG9wZXIua2VybmVsLmV4dGVuZGVkLXZpcnR1YWwtYWRkcmVzc2luZwEB/zBADDtjb20uYXBwbGUuZGV2ZWxvcGVyLmtlcm5lbC5pbmNyZWFzZWQtZGVidWdnaW5nLW1lbW9yeS1saW1pdAEB/zA2DDFjb20uYXBwbGUuZGV2ZWxvcGVyLmtlcm5lbC5pbmNyZWFzZWQtbWVtb3J5LWxpbWl0AQH/MEgMN2NvbS5hcHBsZS5kZXZlbG9wZXIubWFuYWdlZC1hcHAtZGlzdHJpYnV0aW9uLmluc3RhbGwtdWkwDQwLbWFuYWdlZC1hcHAwMwwuY29tLmFwcGxlLmRldmVsb3Blci5tYXR0ZXIuYWxsb3ctc2V0dXAtcGF5bG9hZAEB/zA5DDRjb20uYXBwbGUuZGV2ZWxvcGVyLm1lZGlhLWRldmljZS1kaXNjb3ZlcnktZXh0ZW5zaW9uAQH/MDQML2NvbS5hcHBsZS5kZXZlbG9wZXIubWVzc2FnZXMuY3JpdGljYWwtbWVzc2FnaW5nAQH/MCYMIWNvbS5hcHBsZS5kZXZlbG9wZXIubWVzc2FnaW5nLWFwcAEB/zA4DDNjb20uYXBwbGUuZGV2ZWxvcGVyLm5ldHdvcmtpbmcuSG90c3BvdENvbmZpZ3VyYXRpb24BAf8wRQxAY29tLmFwcGxlLmRldmVsb3Blci5uZXR3b3JraW5nLm1hbmFnZS10aHJlYWQtbmV0d29yay1jcmVkZW50aWFscwEB/zAtDChjb20uYXBwbGUuZGV2ZWxvcGVyLm5ldHdvcmtpbmcubXVsdGlwYXRoAQH/MIGYDC9jb20uYXBwbGUuZGV2ZWxvcGVyLm5ldHdvcmtpbmcubmV0d29ya2V4dGVuc2lvbjBlDBJhcHAtcHJveHktcHJvdmlkZXIMF2NvbnRlbnQtZmlsdGVyLXByb3ZpZGVyDBZwYWNrZXQtdHVubmVsLXByb3ZpZGVyDAlkbnMtcHJveHkMDGRucy1zZXR0aW5ncwwFcmVsYXkwZgwyY29tLmFwcGxlLmRldmVsb3Blci5uZXR3b3JraW5nLnNsaWNpbmcuYXBwY2F0ZWdvcnkwMAwSY29tbXVuaWNhdGlvbi05MDAwDApnYW1lcy02MDE0DA5zdHJlYW1pbmctOTAwMTCBrAw2Y29tLmFwcGxlLmRldmVsb3Blci5uZXR3b3JraW5nLnNsaWNpbmcudHJhZmZpY2NhdGVnb3J5MHIMDmRlZmF1bHRzbGljZS0xDAd2aWRlby0yDAxiYWNrZ3JvdW5kLTMMB3ZvaWNlLTQMD2NhbGxzaWduYWxpbmctNQwQcmVzcG9uc2l2ZWRhdGEtNgwNYXZzdHJlYW1pbmctNwwOcmVzcG9uc2l2ZWF2LTgwNQwmY29tLmFwcGxlLmRldmVsb3Blci5uZXR3b3JraW5nLnZwbi5hcGkwCwwJYWxsb3ctdnBuMC0MKGNvbS5hcHBsZS5kZXZlbG9wZXIubmV0d29ya2luZy53aWZpLWluZm8BAf8wQgwtY29tLmFwcGxlLmRldmVsb3Blci5uZmMucmVhZGVyc2Vzc2lvbi5mb3JtYXRzMBEMBE5ERUYMA1RBRwwEUEFDRTA7DCljb20uYXBwbGUuZGV2ZWxvcGVyLnBhc3MtdHlwZS1pZGVudGlmaWVyczAODAw3MkREWVozODQ0LiowOgw1Y29tLmFwcGxlLmRldmVsb3Blci5wcm94aW1pdHktcmVhZGVyLmlkZW50aXR5LmRpc3BsYXkBAf8wJQwgY29tLmFwcGxlLmRldmVsb3Blci5wdXNoLXRvLXRhbGsBAf8wQQwzY29tLmFwcGxlLmRldmVsb3Blci5zZW5zaXRpdmVjb250ZW50YW5hbHlzaXMuY2xpZW50MAoMCGFuYWx5c2lzMCgMI2NvbS5hcHBsZS5kZXZlbG9wZXIuc2hhcmVkLXdpdGgteW91AQH/MDYMMWNvbS5hcHBsZS5kZXZlbG9wZXIuc2hhcmVkLXdpdGgteW91LmNvbGxhYm9yYXRpb24BAf8wHQwYY29tLmFwcGxlLmRldmVsb3Blci5zaXJpAQH/MDUMMGNvbS5hcHBsZS5kZXZlbG9wZXIuc3BhdGlhbC1hdWRpby5wcm9maWxlLWFjY2VzcwEB/zA9DDhjb20uYXBwbGUuZGV2ZWxvcGVyLnN1Ym1lcmdlZC1zaGFsbG93LWRlcHRoLWFuZC1wcmVzc3VyZQEB/zAsDCdjb20uYXBwbGUuZGV2ZWxvcGVyLnN1c3RhaW5lZC1leGVjdXRpb24BAf8wMQwjY29tLmFwcGxlLmRldmVsb3Blci50ZWFtLWlkZW50aWZpZXIMCjcyRERZWjM4NDQwNgwyY29tLmFwcGxlLmRldmVsb3Blci51YmlxdWl0eS1jb250YWluZXItaWRlbnRpZmllcnMwADA/DC9jb20uYXBwbGUuZGV2ZWxvcGVyLnViaXF1aXR5LWt2c3RvcmUtaWRlbnRpZmllcgwMNzJERFlaMzg0NC4qMEIMHmNvbS5hcHBsZS5kZXZlbG9wZXIudXNlci1mb250czAgDAlhcHAtdXNhZ2UME3N5c3RlbS1pbnN0YWxs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</data>
+																																																																																																																																																								
+			<key>PPQCheck</key>
+	<true/>
+
+	<key>Entitlements</key>
+	<dict>
+				
+				<key>com.apple.developer.push-to-talk</key>
+		<true/>
+				
+				<key>com.apple.developer.journal.allow</key>
+		<array>
+				<string>suggestions</string>
+		</array>
+				
+				<key>com.apple.developer.submerged-shallow-depth-and-pressure</key>
+		<true/>
+				
+				<key>com.apple.developer.accessibility.merchant-api-control</key>
+		<true/>
+				
+				<key>com.apple.developer.matter.allow-setup-payload</key>
+		<true/>
+				
+				<key>com.apple.developer.networking.wifi-info</key>
+		<true/>
+				
+				<key>com.apple.security.application-groups</key>
+		<array>
+				<string>group.com.72DDYZ3844.explicit</string>
+		</array>
+				
+				<key>com.apple.developer.messages.critical-messaging</key>
+		<true/>
+				
+				<key>com.apple.developer.in-app-payments</key>
+		<array></array>
+				
+				<key>com.apple.developer.calling-app</key>
+		<true/>
+				
+				<key>com.apple.developer.associated-domains</key>
+		<string>*</string>
+				
+				<key>com.apple.developer.authentication-services.autofill-credential-provider</key>
+		<true/>
+				
+				<key>com.apple.developer.messaging-app</key>
+		<true/>
+				
+				<key>com.apple.developer.sustained-execution</key>
+		<true/>
+				
+				<key>com.apple.developer.ClassKit-environment</key>
+		<array>
+				<string>production</string>
+				<string>development</string>
+		</array>
+				
+				<key>com.apple.developer.default-data-protection</key>
+		<string>NSFileProtectionComplete</string>
+				
+				<key>com.apple.developer.driverkit.communicates-with-drivers</key>
+		<true/>
+				
+				<key>com.apple.developer.driverkit.allow-third-party-userclients</key>
+		<true/>
+				
+				<key>com.apple.developer.healthkit</key>
+		<true/>
+				
+				<key>com.apple.developer.healthkit.access</key>
+		<array>
+				<string>health-records</string>
+		</array>
+				
+				<key>com.apple.developer.homekit</key>
+		<true/>
+				
+				<key>com.apple.developer.networking.HotspotConfiguration</key>
+		<true/>
+				
+				<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+		<string>72DDYZ3844.*</string>
+				
+				<key>com.apple.developer.proximity-reader.identity.display</key>
+		<true/>
+				
+				<key>com.apple.developer.icloud-services</key>
+		<string>*</string>
+				
+				<key>com.apple.developer.icloud-container-identifiers</key>
+		<array></array>
+				
+				<key>com.apple.developer.managed-app-distribution.install-ui</key>
+		<array>
+				<string>managed-app</string>
+		</array>
+				
+				<key>com.apple.developer.icloud-container-development-container-identifiers</key>
+		<array></array>
+				
+				<key>com.apple.developer.usernotifications.communication</key>
+		<true/>
+				
+				<key>com.apple.developer.usernotifications.time-sensitive</key>
+		<true/>
+				
+				<key>com.apple.developer.ubiquity-container-identifiers</key>
+		<array></array>
+				
+				<key>inter-app-audio</key>
+		<true/>
+				
+				<key>com.apple.developer.networking.multipath</key>
+		<true/>
+				
+				<key>com.apple.developer.networking.networkextension</key>
+		<array>
+				<string>app-proxy-provider</string>
+				<string>content-filter-provider</string>
+				<string>packet-tunnel-provider</string>
+				<string>dns-proxy</string>
+				<string>dns-settings</string>
+				<string>relay</string>
+		</array>
+				
+				<key>com.apple.developer.nfc.readersession.formats</key>
+		<array>
+				<string>NDEF</string>
+				<string>TAG</string>
+				<string>PACE</string>
+		</array>
+				
+				<key>aps-environment</key>
+		<string>development</string>
+				
+				<key>com.apple.developer.coretelephony.sim-inserted</key>
+		<true/>
+				
+				<key>com.apple.developer.sensitivecontentanalysis.client</key>
+		<array>
+				<string>analysis</string>
+		</array>
+				
+				<key>com.apple.developer.driverkit</key>
+		<true/>
+				
+				<key>com.apple.developer.siri</key>
+		<true/>
+				
+				<key>com.apple.developer.networking.vpn.api</key>
+		<array>
+				<string>allow-vpn</string>
+		</array>
+				
+				<key>com.apple.external-accessory.wireless-configuration</key>
+		<true/>
+				
+				<key>com.apple.developer.pass-type-identifiers</key>
+		<array>
+				<string>72DDYZ3844.*</string>
+		</array>
+				
+				<key>com.apple.developer.group-session</key>
+		<true/>
+				
+				<key>com.apple.developer.coremedia.hls.interstitial-preview</key>
+		<true/>
+				
+				<key>com.apple.developer.networking.manage-thread-network-credentials</key>
+		<true/>
+				
+				<key>com.apple.developer.spatial-audio.profile-access</key>
+		<true/>
+				
+				<key>com.apple.developer.coremedia.hls.low-latency</key>
+		<true/>
+				
+				<key>com.apple.developer.shared-with-you</key>
+		<true/>
+				
+				<key>com.apple.developer.devicecheck.appattest-environment</key>
+		<array>
+				<string>development</string>
+				<string>production</string>
+		</array>
+				
+				<key>com.apple.developer.kernel.extended-virtual-addressing</key>
+		<true/>
+				
+				<key>com.apple.developer.associated-domains.mdm-managed</key>
+		<true/>
+				
+				<key>com.apple.developer.shared-with-you.collaboration</key>
+		<true/>
+				
+				<key>com.apple.developer.networking.slicing.appcategory</key>
+		<array>
+				<string>communication-9000</string>
+				<string>games-6014</string>
+				<string>streaming-9001</string>
+		</array>
+				
+				<key>com.apple.developer.networking.slicing.trafficcategory</key>
+		<array>
+				<string>defaultslice-1</string>
+				<string>video-2</string>
+				<string>background-3</string>
+				<string>voice-4</string>
+				<string>callsignaling-5</string>
+				<string>responsivedata-6</string>
+				<string>avstreaming-7</string>
+				<string>responsiveav-8</string>
+		</array>
+				
+				<key>com.apple.developer.family-controls</key>
+		<true/>
+				
+				<key>com.apple.developer.healthkit.recalibrate-estimates</key>
+		<true/>
+				
+				<key>com.apple.developer.media-device-discovery-extension</key>
+		<true/>
+				
+				<key>application-identifier</key>
+		<string>72DDYZ3844.com.72DDYZ3844.explicit</string>
+				
+				<key>com.apple.developer.coremotion.head-pose</key>
+		<true/>
+				
+				<key>keychain-access-groups</key>
+		<array>
+				<string>72DDYZ3844.*</string>
+				<string>com.apple.token</string>
+		</array>
+				
+				<key>com.apple.developer.weatherkit</key>
+		<true/>
+				
+				<key>get-task-allow</key>
+		<true/>
+				
+				<key>com.apple.developer.driverkit.family.audio</key>
+		<true/>
+				
+				<key>com.apple.developer.team-identifier</key>
+		<string>72DDYZ3844</string>
+				
+				<key>com.apple.developer.driverkit.family.midi</key>
+		<true/>
+				
+				<key>com.apple.developer.kernel.increased-debugging-memory-limit</key>
+		<true/>
+				
+				<key>com.apple.developer.game-center</key>
+		<true/>
+				
+				<key>com.apple.developer.kernel.increased-memory-limit</key>
+		<true/>
+				
+				<key>com.apple.developer.healthkit.background-delivery</key>
+		<true/>
+				
+				<key>com.apple.developer.driverkit.transport.usb</key>
+		<array>
+						<dict>
+				
+				<key>idVendor</key>
+		<string>*</string>
+						</dict>
+		</array>
+				
+				<key>com.apple.developer.fileprovider.testing-mode</key>
+		<true/>
+				
+				<key>com.apple.developer.user-fonts</key>
+		<array>
+				<string>app-usage</string>
+				<string>system-installation</string>
+		</array>
+				
+				<key>com.apple.developer.applesignin</key>
+		<array>
+				<string>Default</string>
+		</array>
+		
+	</dict>
+	<key>ExpirationDate</key>
+	<date>2026-04-08T13:41:06Z</date>
+	<key>Name</key>
+	<string>00008140-000a7420027b001c_explicit_dev</string>
+	<key>ProvisionedDevices</key>
+	<array>
+		<string>00008140-000A7420027B001C</string>
+	</array>
+	<key>TeamIdentifier</key>
+	<array>
+		<string>72DDYZ3844</string>
+	</array>
+	<key>TeamName</key>
+	<string>Thao Dinh Thi</string>
+	<key>TimeToLive</key>
+	<integer>365</integer>
+	<key>UUID</key>
+	<string>ce936c36-2b37-4635-831e-8f0a7e671bf9</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
